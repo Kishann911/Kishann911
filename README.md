@@ -14,7 +14,7 @@
 
 <!-- ====================== HERO IMAGES ====================== -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/6367ff560785bd22a8a56f61331a6480f35b59bf3b52646d5bbed18f80fc337f/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d57526863584a6c6457746d5a5468684f5870726433566d656d687364486b7762476c6a656e42704e485a764d47317861484a704f435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966" width="55%" />
+  <img src="https://camo.githubusercontent.com/6367ff560785bd22a8a56f61331a6480f35b59bf3b52646d5bbed18f80fc337f/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d57526863584a6c6457746d5a5468684f5870726433566d656d687364486b7762476c6a656e42704e485a764d47317861484a704f435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966" width="45%" />
 </p>
 
 ---
@@ -99,11 +99,11 @@ I focus on clean architecture, smooth user experiences, and writing code that is
 
 ## ⚙️ How I Work
 
-- ✔ Break complex problems into simple components
-- ✔ Focus on performance and security
-- ✔ Build responsive & accessible interfaces
-- ✔ Follow best coding practices
-- ✔ Continuously learn new technologies
+- **🚀 Performance First**: I prioritize optimizing load times and ensuring fluid animations (60fps).
+- **🔒 Security Conscious**: Implementing best practices like sanitization, validations, and secure auth flows.
+- **🧩 Component-Driven**: Building reusable, atomic components for maintainable and scalable UI.
+- **📱 Responsive Design**: Mobile-first approach ensuring perfect rendering on any device.
+- **🧪 Testing & Quality**: Writing robust unit/integration tests to catch bugs early.
 
 <br />
 
@@ -112,25 +112,10 @@ I focus on clean architecture, smooth user experiences, and writing code that is
 ## 🌀 Typical Development Flow
 
 ```text
-💡 Idea
- │
- ▼
-📝 Planning
- │
- ▼
-🎨 UI/UX Design
- │
- ▼
-💻 Frontend Development
- │
- ▼
-🔗 Backend Integration
- │
- ▼
-🧪 Testing
- │
- ▼
-🚀 Deployment
+💡 Idea  ➔  📝 Plan  ➔  🎨 Design  ➔  💻 Code  ➔  � Review  ➔  🧪 Test  ➔  🚀 Deploy
+  │           │           │           │           │           │            │
+  └───────────┴───────────┴───────────┴───────────┴───────────┴────────────┘
+                            🔄 Continuous Iteration
 ```
 
 <br />
@@ -140,18 +125,29 @@ I focus on clean architecture, smooth user experiences, and writing code that is
 ## 📂 Typical Project Structure
 
 ```bash
-project/
-├── client/
-│   ├── src/
-│   └── public/
+project-root/
+├── 📁 client/                # Frontend (React/Next.js)
+│   ├── 📁 src/
+│   │   ├── 📁 assets/        # Images, Fonts, Icons
+│   │   ├── 📁 components/    # Reusable UI Components (Button, Card, etc.)
+│   │   ├── 📁 hooks/         # Custom React Hooks
+│   │   ├── 📁 pages/         # Application Routes
+│   │   ├── 📁 services/      # API Calls & External Services
+│   │   ├── 📁 store/         # State Management (Redux/Zustand)
+│   │   ├── 📁 styles/        # Global Styles & Themes
+│   │   └── 📁 utils/         # Helper Functions
+│   └── 📄 package.json
 │
-├── server/
-│   ├── routes/
-│   ├── models/
-│   ├── middleware/
-│   └── index.js
+├── 📁 server/                # Backend (Node/Express/Django)
+│   ├── 📁 config/            # Environment & DB Config
+│   ├── 📁 controllers/       # Request Handlers
+│   ├── 📁 models/            # Database Schemas
+│   ├── 📁 routes/            # API Endpoints
+│   ├── 📁 middleware/        # Auth & Validations
+│   ├── 📁 services/          # Business Logic
+│   └── 📄 app.js
 │
-└── README.md
+└── 📄 README.md              # Documentation
 ```
 
 <br />
@@ -170,9 +166,17 @@ project/
 
 ## 📫 Contact Me
 
-| **Name** | **Email** | **Role** |
-| :--- | :--- | :--- |
-| Kishan | [kishanojha462@gmail.com](mailto:kishanojha462@gmail.com) | Full-Stack Developer |
+<div align="center">
+  <a href="mailto:kishanojha462@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kishan-ojha-571876330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_kishann911">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 <br />
 
